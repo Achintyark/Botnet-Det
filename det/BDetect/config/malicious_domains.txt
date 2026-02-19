@@ -1,0 +1,6 @@
+malware-site.net
+badstuff.org
+blackhole.example.org
+eicar.org
+malicious.example.net
+badsite.example

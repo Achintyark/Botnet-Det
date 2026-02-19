@@ -1,0 +1,1670 @@
+2025-10-08 11:38:27,768 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-08 11:38:27,768 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-08 11:39:14,493 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.244
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-08 11:39:14,493 - Alert sent to 10.225.32.244:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.244
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:19:28,469 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: UNKNOWN
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:20:23,460 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 89.238.73.97
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:20:23,461 - Alert sent to 89.238.73.97:9999 \u2192 \U0001f4c1 File Transfer Detected from 89.238.73.97
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:20:25,653 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 89.238.73.97
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:20:25,654 - Alert sent to 89.238.73.97:9999 \u2192 \U0001f4c1 File Transfer Detected from 89.238.73.97
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:20:27,867 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 89.238.73.97
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:20:27,868 - Alert sent to 89.238.73.97:9999 \u2192 \U0001f4c1 File Transfer Detected from 89.238.73.97
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:20:29,900 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:22:19,237 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 77.63%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:22:19,237 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 77.63%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:22:52,793 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:22:52,793 - Alert sent to 34.54.88.138:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:23:29,179 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:23:29,179 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:23:29,179 - Alert sent to 13.107.246.58:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:23:29,179 - Alert sent to 13.107.246.58:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:24:32,965 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:24:32,965 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:24:34,984 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:24:34,984 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:24:36,998 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:24:36,998 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:29,609 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:29,609 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:29,609 - Alert sent to 34.139.124.58:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:29,609 - Alert sent to 34.139.124.58:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:47,794 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 57.144.211.32
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:47,794 - Alert sent to 57.144.211.32:9999 \u2192 \U0001f4c1 File Transfer Detected from 57.144.211.32
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:47,823 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 57.144.211.32
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:25:47,829 - Alert sent to 57.144.211.32:9999 \u2192 \U0001f4c1 File Transfer Detected from 57.144.211.32
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:26:05,652 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:26:05,652 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:26:44,723 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:26:44,723 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:26:52,681 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:26:52,681 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:27:38,541 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:27:38,541 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:28:14,468 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 140.82.114.26
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:14,468 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 140.82.114.26
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:14,468 - Alert sent to 140.82.114.26:9999 \u2192 \U0001f4c1 File Transfer Detected from 140.82.114.26
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:14,468 - Alert sent to 140.82.114.26:9999 \u2192 \U0001f4c1 File Transfer Detected from 140.82.114.26
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:16,488 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:16,508 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:18,520 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:18,547 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:25,030 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:28:25,030 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:28:33,174 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:33,174 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:33,177 - Alert sent to 34.54.88.138:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:33,177 - Alert sent to 34.54.88.138:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:57,644 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 150.171.27.12
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:57,644 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 150.171.27.12
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:57,644 - Alert sent to 150.171.27.12:9999 \u2192 \U0001f4c1 File Transfer Detected from 150.171.27.12
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:57,644 - Alert sent to 150.171.27.12:9999 \u2192 \U0001f4c1 File Transfer Detected from 150.171.27.12
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:59,684 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:59,684 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:59,694 - Alert sent to 34.54.88.138:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:28:59,694 - Alert sent to 34.54.88.138:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:01,432 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:29:01,433 - Alert sent to 192.168.1.9:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:29:33,313 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:33,313 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:38,158 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:29:38,159 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:29:48,596 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 172.66.0.96
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:48,596 - Alert sent to 172.66.0.96:9999 \u2192 \U0001f4c1 File Transfer Detected from 172.66.0.96
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:48,602 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 172.66.0.96
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:48,604 - Alert sent to 172.66.0.96:9999 \u2192 \U0001f4c1 File Transfer Detected from 172.66.0.96
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:51,933 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:51,934 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:51,934 - Alert sent to 34.139.124.58:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:29:51,934 - Alert sent to 34.139.124.58:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:30:14,740 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.57
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:30:25,813 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:30:25,814 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:30:36,189 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:30:36,190 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:31:04,962 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:31:04,964 - Alert sent to 34.54.88.138:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:31:06,982 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:31:06,983 - Alert sent to 34.54.88.138:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.54.88.138
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:31:18,359 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:31:18,360 - Alert sent to 34.139.124.58:9999 \u2192 \U0001f4c1 File Transfer Detected from 34.139.124.58
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:05,880 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:08,839 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 192.168.1.57
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:16,409 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:16,410 - Alert sent to 13.107.246.72:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:18,508 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:18,508 - Alert sent to 13.107.246.72:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:20,549 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:20,549 - Alert sent to 13.107.246.72:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:22,606 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:22,607 - Alert sent to 13.107.246.72:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:24,871 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:24,872 - Alert sent to 13.107.246.72:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: DOWNLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:26,883 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:32:26,884 - Alert sent to 13.107.246.72:9999 \u2192 \U0001f4c1 File Transfer Detected from 13.107.246.72
+\U0001f4e6 Operation: UPLOADED
+\u26a0\ufe0f Action: Investigate download/upload attempt immediately.
+2025-10-10 10:37:14,310 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:37:14,311 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:38:28,119 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 70.68%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:38:28,120 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 70.68%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:39:44,547 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:39:44,548 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:41:00,900 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 81.85%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:41:00,901 - Alert sent to 192.168.1.9:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 81.85%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:42:17,904 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:42:17,905 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:43:14,994 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.57
+\U0001f50d Confidence: 77.60%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:44:12,215 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 67.94%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:44:12,215 - Alert sent to 192.168.1.61:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 67.94%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:50:44,465 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 76.82%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:50:44,466 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 76.82%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:54:48,939 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:54:48,939 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:58:52,828 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.03%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:58:52,828 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.03%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:01:55,629 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 75.01%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:01:55,629 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 75.01%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:02:57,159 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.63%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:02:57,161 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.63%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:07:52,364 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 75.49%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:07:52,365 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 75.49%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:11:45,714 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:11:45,715 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:12:30,892 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:12:30,894 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:13:11,618 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:13:11,619 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:13:47,806 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:13:47,807 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:14:24,017 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:14:24,018 - Alert sent to 192.168.1.14:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:15:00,284 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.57
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:15:37,224 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:15:37,225 - Alert sent to 192.168.1.59:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:16:13,453 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:16:13,454 - Alert sent to 192.168.1.99:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:16:49,701 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:16:49,702 - Alert sent to 192.168.1.102:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:27:10,944 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:27:10,944 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:27:57,416 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:27:57,417 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:28:38,467 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:28:38,468 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:12,133 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:12,134 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:15,265 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:15,265 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:51,808 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:51,809 - Alert sent to 192.168.1.14:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:57,452 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:29:57,453 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:30:33,786 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:30:33,786 - Alert sent to 192.168.1.51:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:30:39,419 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 11:30:39,419 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:15:47,003 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:15:47,003 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:16:32,936 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:16:32,937 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:17:20,048 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:17:20,049 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:17:58,389 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:17:58,390 - Alert sent to 192.168.1.9:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:18:35,133 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:18:35,134 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:19:14,490 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:19:14,490 - Alert sent to 192.168.1.14:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:19:55,296 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:19:55,297 - Alert sent to 192.168.1.51:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:20:36,211 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.57
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:21:14,594 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:21:14,594 - Alert sent to 192.168.1.59:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:21:51,355 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:21:51,356 - Alert sent to 192.168.1.61:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:22:30,034 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:22:30,035 - Alert sent to 192.168.1.86:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:23:07,801 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:23:07,801 - Alert sent to 192.168.1.99:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:23:45,525 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:23:45,525 - Alert sent to 192.168.1.100:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:24:22,491 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:24:22,491 - Alert sent to 192.168.1.102:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:25:00,981 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:25:00,986 - Alert sent to 192.168.1.103:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:25:37,922 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:25:37,923 - Alert sent to 192.168.1.105:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:26:15,267 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:26:15,269 - Alert sent to 192.168.1.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:26:53,107 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:26:53,108 - Alert sent to 192.168.1.108:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:27:27,597 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:27:27,604 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:27:31,932 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:27:31,935 - Alert sent to 192.168.1.110:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:11,658 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.111
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:11,659 - Alert sent to 192.168.1.111:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.111
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:14,310 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:14,311 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:49,108 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.112
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:49,108 - Alert sent to 192.168.1.112:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.112
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:55,222 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:28:55,222 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:29:27,083 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.114
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:29:27,083 - Alert sent to 192.168.1.114:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.114
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:29:32,323 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:29:32,323 - Alert sent to 192.168.1.9:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:35:28,109 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:35:28,109 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:36:13,913 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:36:13,913 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:36:54,698 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:36:54,698 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:37:31,834 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:37:31,835 - Alert sent to 192.168.1.9:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 55.91%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:41:19,082 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:41:19,083 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:42:04,626 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:42:04,627 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:42:46,154 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:42:46,155 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:43:23,239 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:43:23,240 - Alert sent to 192.168.1.9:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:43:59,523 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:43:59,524 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:44:36,558 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:44:36,559 - Alert sent to 192.168.1.14:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:45:26,477 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:45:26,478 - Alert sent to 192.168.1.51:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:46:09,092 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.57
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:46:45,453 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:46:45,454 - Alert sent to 192.168.1.59:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:47:22,774 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:47:22,775 - Alert sent to 192.168.1.61:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:48:01,239 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:48:01,240 - Alert sent to 192.168.1.86:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:48:39,507 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:48:39,508 - Alert sent to 192.168.1.99:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:49:16,305 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:49:16,306 - Alert sent to 192.168.1.100:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:49:52,792 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:49:52,793 - Alert sent to 192.168.1.102:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:50:30,649 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:50:30,650 - Alert sent to 192.168.1.103:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:51:07,041 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:51:07,042 - Alert sent to 192.168.1.105:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:51:43,868 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:51:43,869 - Alert sent to 192.168.1.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:52:21,176 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:52:21,177 - Alert sent to 192.168.1.108:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:52:57,704 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:52:57,705 - Alert sent to 192.168.1.110:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:53:33,870 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.111
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:53:33,871 - Alert sent to 192.168.1.111:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.111
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:54:10,153 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.112
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:54:10,154 - Alert sent to 192.168.1.112:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.112
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:54:52,680 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.113
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:54:52,681 - Alert sent to 192.168.1.113:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.113
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:55:33,416 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.114
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:55:33,417 - Alert sent to 192.168.1.114:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.114
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:56:09,538 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.116
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:56:09,539 - Alert sent to 192.168.1.116:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.116
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:56:46,238 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.117
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:56:46,239 - Alert sent to 192.168.1.117:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.117
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:57:23,353 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.120
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:57:23,354 - Alert sent to 192.168.1.120:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.120
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:57:59,787 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.122
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:57:59,788 - Alert sent to 192.168.1.122:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.122
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:58:40,455 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.123
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:58:40,456 - Alert sent to 192.168.1.123:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.123
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:59:22,022 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.124
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 15:59:22,023 - Alert sent to 192.168.1.124:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.124
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:00:02,793 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:00:02,794 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:00:48,139 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:00:48,140 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:01:29,205 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:01:29,206 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:02:10,722 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:02:10,723 - Alert sent to 192.168.1.9:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:02:53,470 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:02:53,471 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:03:29,710 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:03:29,711 - Alert sent to 192.168.1.14:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:04:10,791 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:04:10,792 - Alert sent to 192.168.1.51:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:04:51,857 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:04:51,858 - Alert sent to 192.168.1.59:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:05:28,919 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:05:28,920 - Alert sent to 192.168.1.61:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:06:05,168 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:06:05,169 - Alert sent to 192.168.1.86:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:06:41,578 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:06:41,579 - Alert sent to 192.168.1.99:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:07:17,698 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:07:17,698 - Alert sent to 192.168.1.100:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:07:54,509 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:07:54,510 - Alert sent to 192.168.1.102:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:08:31,519 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:08:31,520 - Alert sent to 192.168.1.103:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:09:07,703 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:09:07,704 - Alert sent to 192.168.1.105:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:09:43,978 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:09:43,978 - Alert sent to 192.168.1.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:10:20,355 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:10:20,356 - Alert sent to 192.168.1.108:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:10:56,882 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:10:56,883 - Alert sent to 192.168.1.110:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:11:34,190 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.111
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:11:34,191 - Alert sent to 192.168.1.111:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.111
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:12:11,470 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.112
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:12:11,471 - Alert sent to 192.168.1.112:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.112
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:12:52,352 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.113
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:12:52,353 - Alert sent to 192.168.1.113:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.113
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:13:33,789 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.114
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:13:33,790 - Alert sent to 192.168.1.114:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.114
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:17:52,853 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:17:52,854 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:18:38,229 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:18:38,230 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:19:19,114 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:19:19,115 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:19:55,321 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:19:55,322 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:20:31,554 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:20:31,555 - Alert sent to 192.168.1.14:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:21:13,124 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:21:13,125 - Alert sent to 192.168.1.51:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:21:53,884 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.57
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:22:30,017 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:22:30,018 - Alert sent to 192.168.1.59:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:23:07,130 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:23:07,132 - Alert sent to 192.168.1.86:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:23:44,670 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:23:44,672 - Alert sent to 192.168.1.99:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:24:21,099 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:24:21,100 - Alert sent to 192.168.1.100:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:24:57,946 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:24:57,947 - Alert sent to 192.168.1.102:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:25:34,278 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:25:34,279 - Alert sent to 192.168.1.103:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.103
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:26:10,670 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:26:10,671 - Alert sent to 192.168.1.61:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:26:47,084 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:26:47,084 - Alert sent to 192.168.1.105:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:27:24,064 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:27:24,065 - Alert sent to 192.168.1.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:28:01,931 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:28:01,932 - Alert sent to 192.168.1.108:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.108
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:28:38,241 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:28:38,242 - Alert sent to 192.168.1.110:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.110
+\U0001f50d Confidence: 77.88%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:43:37,313 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:43:37,314 - Alert sent to 192.168.1.5:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.5
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:44:23,653 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:44:23,654 - Alert sent to 192.168.1.3:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.3
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:45:04,510 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:45:04,511 - Alert sent to 192.168.1.8:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:45:42,913 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:45:42,916 - Alert sent to 192.168.1.10:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.10
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:46:21,714 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:46:21,715 - Alert sent to 192.168.1.14:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.14
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:47:03,271 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:47:03,272 - Alert sent to 192.168.1.51:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.51
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:47:44,161 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.57
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:48:21,054 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:48:21,055 - Alert sent to 192.168.1.59:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.59
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:48:57,364 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:48:57,365 - Alert sent to 192.168.1.61:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.61
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:49:34,802 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:49:34,803 - Alert sent to 192.168.1.86:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.86
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:50:11,154 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:50:11,155 - Alert sent to 192.168.1.99:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.99
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:50:47,990 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:50:47,991 - Alert sent to 192.168.1.100:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.100
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:51:24,963 - Alert sent to 192.168.1.57:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 16:51:24,964 - Alert sent to 192.168.1.102:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.102
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:07:11,702 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 79.09%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:07:11,702 - Alert sent to 10.225.32.18:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 79.09%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:07:55,781 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 80.30%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:07:55,787 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 80.30%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:12:04,668 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 80.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:12:04,668 - Alert sent to 10.225.32.18:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 80.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:12:52,602 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:12:52,602 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:17:10,757 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 75.44%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:17:10,757 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 75.44%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:17:53,878 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 79.86%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:17:53,878 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 79.86%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:18:23,538 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.119
+\U0001f50d Confidence: 80.05%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:18:23,538 - Alert sent to 192.168.0.119:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.119
+\U0001f50d Confidence: 80.05%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:18:46,357 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.119
+\U0001f50d Confidence: 80.96%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:18:46,360 - Alert sent to 192.168.0.119:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.119
+\U0001f50d Confidence: 80.96%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:19:16,041 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.125
+\U0001f50d Confidence: 76.12%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:19:16,041 - Alert sent to 192.168.0.125:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.125
+\U0001f50d Confidence: 76.12%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:19:56,587 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.125
+\U0001f50d Confidence: 77.63%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:19:56,587 - Alert sent to 192.168.0.125:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.125
+\U0001f50d Confidence: 77.63%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:20:07,580 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:20:07,580 - Alert sent to 192.168.0.137:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:20:49,147 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:20:49,155 - Alert sent to 192.168.0.137:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:20:55,853 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:20:55,853 - Alert sent to 192.168.0.143:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:21:37,808 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 75.76%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:21:37,808 - Alert sent to 192.168.0.143:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 75.76%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:21:44,175 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.146
+\U0001f50d Confidence: 75.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:21:44,175 - Alert sent to 192.168.0.146:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.146
+\U0001f50d Confidence: 75.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:22:25,493 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.146
+\U0001f50d Confidence: 77.62%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:22:25,495 - Alert sent to 192.168.0.146:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.146
+\U0001f50d Confidence: 77.62%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:22:35,800 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.56%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:22:35,801 - Alert sent to 192.168.0.187:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.56%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:23:18,121 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.54%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:23:18,132 - Alert sent to 192.168.0.187:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.54%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:26:53,712 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 81.67%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:26:53,712 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 81.67%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:27:28,365 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 80.52%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:27:28,365 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 80.52%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:27:42,315 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 76.78%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:27:42,316 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 76.78%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:28:16,919 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 77.94%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:28:16,919 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 77.94%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:28:29,885 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 76.41%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:28:29,885 - Alert sent to 192.168.0.137:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 76.41%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:29:05,563 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 78.24%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:29:05,563 - Alert sent to 192.168.0.137:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 78.24%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:29:18,243 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.139
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:29:18,243 - Alert sent to 192.168.0.139:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.139
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:29:53,114 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.139
+\U0001f50d Confidence: 79.96%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:29:53,114 - Alert sent to 192.168.0.139:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.139
+\U0001f50d Confidence: 79.96%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:30:06,845 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 75.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:30:06,845 - Alert sent to 192.168.0.143:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 75.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:30:42,327 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 77.59%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:30:42,327 - Alert sent to 192.168.0.143:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 77.59%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:30:55,277 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.35%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:30:55,277 - Alert sent to 192.168.0.187:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.35%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:31:30,763 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 78.21%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:31:30,763 - Alert sent to 192.168.0.187:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 78.21%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:31:55,280 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:31:55,511 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:31:59,591 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:31:59,787 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:32:07,997 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:32:09,072 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:32:12,277 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:32:13,361 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:33:40,838 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:33:40,838 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:33:45,138 - UDP alert failed: [Errno 11001] getaddrinfo failed
+2025-10-10 19:35:06,850 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.14%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:35:06,850 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.14%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:35:41,451 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 78.73%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:35:41,451 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 78.73%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:36:00,175 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 76.66%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:36:00,175 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 76.66%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:53:28,973 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 74.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:53:28,973 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 74.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:54:16,282 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:54:16,282 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:55:03,903 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 75.17%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:55:03,903 - Alert sent to 192.168.0.123:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 75.17%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:58:50,540 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.86%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:58:50,540 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.86%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:59:38,318 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 19:59:38,318 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:00:25,988 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:00:25,988 - Alert sent to 192.168.0.123:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:01:14,884 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 75.79%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:01:14,884 - Alert sent to 192.168.0.137:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 75.79%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:02:04,131 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:02:04,131 - Alert sent to 192.168.0.143:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:02:51,867 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.36%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:02:51,875 - Alert sent to 192.168.0.187:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.36%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:09:21,742 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 79.47%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:09:21,742 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 79.47%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:10:11,481 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 76.42%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:10:11,482 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 76.42%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:11:17,329 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 75.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:11:17,329 - Alert sent to 192.168.0.123:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 75.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:12:08,781 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 75.82%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:12:08,782 - Alert sent to 192.168.0.137:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 75.82%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:13:04,539 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:13:04,541 - Alert sent to 192.168.0.143:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:13:54,818 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.51%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:13:54,819 - Alert sent to 192.168.0.187:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 81.51%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:18:01,555 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.05%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:18:01,555 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.05%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:22:08,994 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 74.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:22:08,995 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 74.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:22:56,438 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 75.23%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:22:56,439 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 75.23%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:26:39,991 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.44%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:26:39,992 - Alert sent to 192.168.0.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.1
+\U0001f50d Confidence: 77.44%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:27:47,699 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 79.19%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:27:47,700 - Alert sent to 192.168.0.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.106
+\U0001f50d Confidence: 79.19%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:28:35,530 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.107
+\U0001f50d Confidence: 76.53%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:28:35,530 - Alert sent to 192.168.0.107:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.107
+\U0001f50d Confidence: 76.53%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:29:22,345 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.119
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:29:22,345 - Alert sent to 192.168.0.119:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.119
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:30:09,315 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 76.03%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:30:09,316 - Alert sent to 192.168.0.123:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.123
+\U0001f50d Confidence: 76.03%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:31:00,872 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.131
+\U0001f50d Confidence: 75.92%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:31:00,872 - Alert sent to 192.168.0.131:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.131
+\U0001f50d Confidence: 75.92%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:31:48,849 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.132
+\U0001f50d Confidence: 75.83%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:31:48,850 - Alert sent to 192.168.0.132:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.132
+\U0001f50d Confidence: 75.83%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:32:41,104 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 75.80%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:32:41,104 - Alert sent to 192.168.0.137:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.137
+\U0001f50d Confidence: 75.80%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:33:33,440 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:33:33,440 - Alert sent to 192.168.0.143:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.143
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:34:21,426 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.162
+\U0001f50d Confidence: 77.08%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:34:21,426 - Alert sent to 192.168.0.162:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.162
+\U0001f50d Confidence: 77.08%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:35:29,930 - Alert sent to 192.168.0.193:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 77.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 20:35:29,930 - Alert sent to 192.168.0.187:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.0.187
+\U0001f50d Confidence: 77.16%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:41:21,385 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 84.15%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:41:21,385 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 84.15%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:42:07,819 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.151
+\U0001f50d Confidence: 83.52%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:42:07,820 - Alert sent to 10.225.32.151:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.151
+\U0001f50d Confidence: 83.52%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:49:05,483 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 77.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:49:05,483 - Alert sent to 10.225.32.18:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 77.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:49:51,151 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.24
+\U0001f50d Confidence: 80.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:49:51,151 - Alert sent to 10.225.32.24:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.24
+\U0001f50d Confidence: 80.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:50:42,778 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 78.68%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:50:42,784 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 78.68%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:51:33,341 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.237
+\U0001f50d Confidence: 80.57%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:51:33,341 - Alert sent to 10.225.32.237:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.237
+\U0001f50d Confidence: 80.57%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:55:52,899 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 84.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:55:52,906 - Alert sent to 10.225.32.18:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 84.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:56:45,009 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.24
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:56:45,017 - Alert sent to 10.225.32.24:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.24
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:57:33,676 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 77.53%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:57:33,676 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 77.53%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:58:21,020 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.237
+\U0001f50d Confidence: 81.71%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 21:58:21,020 - Alert sent to 10.225.32.237:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.237
+\U0001f50d Confidence: 81.71%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:02:29,659 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 77.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:02:29,675 - Alert sent to 10.225.32.18:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.18
+\U0001f50d Confidence: 77.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:03:12,302 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.24
+\U0001f50d Confidence: 76.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:03:12,302 - Alert sent to 10.225.32.24:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.24
+\U0001f50d Confidence: 76.27%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:04:01,800 - Alert sent to 10.225.32.35:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 77.53%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:04:01,800 - Alert sent to 10.225.32.101:9999 \u2192 \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 77.53%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:08:05,265 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.1
+\U0001f50d Confidence: 76.93%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:08:05,265 - Alert sent to 192.168.1.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.1
+\U0001f50d Confidence: 76.93%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:14:25,655 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.1
+\U0001f50d Confidence: 77.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:14:25,655 - Alert sent to 192.168.1.1:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.1
+\U0001f50d Confidence: 77.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:15:03,489 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:15:03,489 - Alert sent to 192.168.1.105:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.105
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:15:40,971 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 75.98%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:15:40,971 - Alert sent to 192.168.1.106:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.106
+\U0001f50d Confidence: 75.98%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:16:18,061 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.122
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:16:18,069 - Alert sent to 192.168.1.122:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.122
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:16:54,954 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.131
+\U0001f50d Confidence: 77.34%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:16:54,954 - Alert sent to 192.168.1.131:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.131
+\U0001f50d Confidence: 77.34%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:17:32,732 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.136
+\U0001f50d Confidence: 76.76%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:17:32,748 - Alert sent to 192.168.1.136:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.136
+\U0001f50d Confidence: 76.76%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:18:10,001 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.141
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:18:10,001 - Alert sent to 192.168.1.141:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.141
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:18:46,911 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.156
+\U0001f50d Confidence: 77.17%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:18:46,911 - Alert sent to 192.168.1.156:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.156
+\U0001f50d Confidence: 77.17%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:19:23,790 - Alert sent to 192.168.1.199:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.182
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 22:19:23,790 - Alert sent to 192.168.1.182:9999 \u2192 \U0001f6a8 Botnet detected on 192.168.1.182
+\U0001f50d Confidence: 74.46%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.

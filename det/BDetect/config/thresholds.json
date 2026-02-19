@@ -1,0 +1,6 @@
+{
+  "confidence_threshold": 85.0,
+  "scan_interval_seconds": 60,
+  "virustotal_api_key": "36d6f22e1c9ef3f3c060682d86006d94ae0d4f66cbe2697de49722cd50846af0",
+  "domain_log_path": "data/domain_alerts.csv"
+}

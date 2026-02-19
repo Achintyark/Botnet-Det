@@ -1,0 +1,84 @@
+2025-10-08 10:48:43,355 - [\U0001f4e8] Alert from 10.225.32.244: \U0001f6a8 2025-10-08 10:48:43 \u2192 Device accessed malicious domain: berax30.com
+2025-10-08 10:54:49,353 - [\U0001f4e8] Alert from 10.225.32.244: \U0001f6a8 2025-10-08 10:54:49 \u2192 Device accessed malicious domain: berax30.com
+2025-10-08 10:54:51,360 - [\U0001f4e8] Alert from 10.225.32.244: \U0001f6a8 2025-10-08 10:54:51 \u2192 Device accessed malicious domain: berax30.com
+2025-10-08 10:54:53,371 - [\U0001f4e8] Alert from 10.225.32.244: \U0001f6a8 2025-10-08 10:54:53 \u2192 Device accessed malicious domain: berax30.com
+2025-10-08 10:54:56,114 - [\U0001f4e8] Alert from 10.225.32.244: \U0001f6a8 2025-10-08 10:54:56 \u2192 Device accessed malicious domain: google-ohttp-relay-safebrowsing.fastly-edge.com
+2025-10-08 10:54:58,801 - [\U0001f4e8] Alert from 10.225.32.244: \U0001f6a8 2025-10-08 10:54:58 \u2192 Device accessed malicious domain: google-ohttp-relay-safebrowsing.fastly-edge.com
+2025-10-08 11:38:27,780 - Alert from 10.225.32.35: \U0001f6a8 Botnet detected on 10.225.32.101
+\U0001f50d Confidence: 74.38%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-08 11:39:14,503 - Alert from 10.225.32.35: \U0001f6a8 Botnet detected on 10.225.32.244
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:39:37,245 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:39,273 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:41,281 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:43,285 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:45,292 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 49.205.72.130 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:47,306 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:49,316 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:51,326 - Alert from 192.168.1.57: \U0001f6a8 Botnet detected on 192.168.1.8
+\U0001f50d Confidence: 79.50%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:39:53,331 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:55,345 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:57,351 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 49.205.72.130 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:39:59,365 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 49.205.72.130 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:40:01,376 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.9 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:40:03,388 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.9 accessed a unknown domain!
+\U0001f310 Website: blackhole.example.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:40:05,398 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 49.205.72.130 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:40:07,404 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.9 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:40:09,418 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.9 accessed a unknown domain!
+\U0001f310 Website: badsite.example
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:41:00,900 - Alert from 192.168.1.57: \U0001f6a8 Botnet detected on 192.168.1.9
+\U0001f50d Confidence: 81.85%
+\u26a0\ufe0f Action: Investigate and disconnect immediately.
+2025-10-10 10:41:02,912 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a malicious domain!
+\U0001f310 Website: api.telegram.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:41:03,463 - \U0001f6a8 2025-10-10 10:41:01 \u2192 Device accessed malicious domain: api.telegram.org
+2025-10-10 10:41:04,926 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a malicious domain!
+\U0001f310 Website: api.telegram.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:41:05,475 - \U0001f6a8 2025-10-10 10:41:03 \u2192 Device accessed malicious domain: api.telegram.org
+2025-10-10 10:41:06,940 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a malicious domain!
+\U0001f310 Website: api.telegram.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:41:07,484 - \U0001f6a8 2025-10-10 10:41:05 \u2192 Device accessed malicious domain: api.telegram.org
+2025-10-10 10:41:08,956 - Alert from 192.168.1.57: \U0001f6a8 Alert: Device 192.168.1.57 accessed a malicious domain!
+\U0001f310 Website: api.telegram.org
+\u26a0 Action: Please disconnect or investigate immediately.
+2025-10-10 10:41:10,965 - Alert from 192.168.1.57: \U0001f6a8 2025-10-10 10:41:01 \u2192 Device accessed malicious domain: api.telegram.org
+2025-10-10 10:41:12,164 - \U0001f6a8 2025-10-10 10:41:10 \u2192 Device accessed malicious domain: api.telegram.org
+2025-10-10 10:41:12,970 - Alert from 192.168.1.57: \U0001f6a8 2025-10-10 10:41:01 \u2192 Device accessed malicious domain: api.telegram.org
