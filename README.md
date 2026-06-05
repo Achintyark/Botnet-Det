@@ -1,4 +1,5 @@
-#Privacy Enhanced Botnet Detection
+# Privacy Enhanced Botnet Detection
+
 Overview
 
 Privacy Enhanced Botnet Detection is a cybersecurity project that combines Deep Learning and Federated Learning to detect botnet attacks while preserving user privacy. Traditional botnet detection methods often analyze raw network traffic, which can expose sensitive user information. This project addresses that challenge by implementing privacy-preserving techniques during feature extraction and model training.
